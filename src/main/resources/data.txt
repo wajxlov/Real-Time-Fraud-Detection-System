@@ -1,0 +1,10 @@
+[ { "timestamp": 1617906000, "amount": 150.00, "userId": "user1", "serviceId": "serviceA" }, {
+"timestamp": 1617906060, "amount": 4500.00, "userId": "user2", "serviceId": "serviceB" }, {
+"timestamp": 1617906120, "amount": 75.00, "userId": "user1", "serviceId": "serviceC" }, {
+"timestamp": 1617906180, "amount": 3000.00, "userId": "user3", "serviceId": "serviceA" }, {
+"timestamp": 1617906240, "amount": 200.00, "userId": "user1", "serviceId": "serviceB" }, {
+"timestamp": 1617906300, "amount": 4800.00, "userId": "user2", "serviceId": "serviceC" }, {
+"timestamp": 1617906360, "amount": 100.00, "userId": "user4", "serviceId": "serviceA" }, {
+"timestamp": 1617906420, "amount": 4900.00, "userId": "user3", "serviceId": "serviceB" }, {
+"timestamp": 1617906480, "amount": 120.00, "userId": "user1", "serviceId": "serviceD" }, {
+"timestamp": 1617906540, "amount": 5000.00, "userId": "user3", "serviceId": "serviceC" } ]
